@@ -1,0 +1,285 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*menu area start*/
+   .menu_wrapper ul li a {
+    margin: 0px 5px!important;
+}
+    /*menu area end*/
+    /*slider area start*/
+     .custom_caption {
+    bottom: 55px;
+}
+.span_p span {
+    padding: 0px 5px!important;
+}
+    /*slider area end*/
+    /*about us section start*/
+    #about_sec_wrapper {
+    padding: 50px 0px;
+}
+.box_item {
+    display: block;
+}
+.single_con_item {
+   
+    padding: 25px 15px;
+    width: 100%;
+    margin-top: 20px;
+   
+}
+.single_con_item p {
+    font-size: 16px;
+}
+    /*about us section end*/
+/*skill area start*/
+.prog_item_wrap {
+    margin-top: 35px;
+}
+.prog_item_wrap h4 {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+/*skill area end*/
+
+/*page slogan area start*/
+#page_slogan_wrapper {
+    padding-top: 75px;
+    padding-bottom: 35px;
+}
+.slier_wrapper img {
+    margin-left: 0px!important;
+}
+.slier_wrapper p {
+    font-size: 16px!important;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    line-height: 25px;
+}
+
+/*page slogan area end*/
+/*about us area start*/
+.ser_item_wrap {
+    margin-top: 20px;
+    text-align: center;
+}
+/*about us area end*/
+/*contact form area start*/
+#contact_area {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+input.form-control {
+    margin-bottom: 20px;
+}
+textarea.form-control {
+    margin-top: 0px;
+}
+.address_control {
+     border-left:none; 
+}
+/*contact form area end*/
+/*footer area start*/
+.foot_iconn i{
+    font-size:30px;
+    width:40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top:30px;
+}
+.foot_par p {
+    font-size: 19px;
+    color: white;
+    margin-top: 22px;
+}
+/*footer area end*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*menu area start*/
+   .menu_wrapper ul li a {
+    margin: 0px 5px!important;
+}
+    /*menu area end*/
+
+ /*slider area start*/
+ .custom_caption {
+    bottom: 50px;
+}
+.custom_caption h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.bor_par {
+    font-size: 16px;
+    width: 300px;
+    padding: 5px 0px!important;
+  
+}
+.span_p {
+    margin-top: 5px!important;
+}
+ /*slider area end*/
+ /*about us section start*/
+ .single_con_item p {
+    font-size: 16px;
+}
+ /*about us section end*/
+ /*skill area start*/
+ .prog_item_wrap h4 {
+    font-size: 20px;
+}
+ /*skill area end*/
+ /*about us area start*/
+ .ser_item_wrap {
+    margin-top: 20px;
+    text-align: center;
+}
+ /*about us area end*/
+ /*contact form area start*/
+ #contact_area {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+input.form-control {
+    margin-bottom: 20px;
+}
+textarea.form-control {
+    margin-top: 0px;
+}
+.address_control {
+     border-left:none; 
+}
+/*contact form area end*/
+ 
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  /*menu area start*/
+   .menu_wrapper ul li a {
+    margin: 0px 5px!important;
+}
+    /*menu area end*/
+  /*slider area start*/
+.custom_caption {
+    bottom: 70px;
+}
+
+ .custom_caption h1 {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+.bor_par {
+    padding: 5px 0px!important;
+}
+.span_p {
+    margin-top: 10px!important;
+}
+  /*slider area end*/
+    /*about us section start*/
+  .single_con_item p {
+    font-size: 17px;
+}
+  /*about us section end*/
+ }
+
+ /*page slogan section start*/
+ .slier_wrapper img {
+    margin-left: 40px;
+}
+ .slier_wrapper p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+ /*page slogan section end*/
+
+ /*about us section start*/
+ .ser_item_wrap i {
+    font-size: 35px;
+}
+.ser_item_wrap p {
+    font-size: 16px;
+}
+ /*about us section end*/
+
+ /*counter up area start*/
+ .count_itm_wrap span {
+    font-size: 35px;
+}
+ .count_itm_wrap p {
+    font-size: 14px;
+}
+ /*counter up area end*/
+
+  /*contact us form area start*/
+  .address_control {
+    padding: 10px 15px!important;
+}
+.address_control p {
+   font-size: 20px!important;
+}
+  /*contact us form area end*/
+
+
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*menu area start*/
+    .menu_wrapper ul li a {
+    margin: 0px 20px!important;
+}
+    /*menu area end*/
+
+    /*slider area start*/
+    .custom_caption {
+    bottom: 100px;
+}
+
+  /*slider area end*/
+  /*about us section start*/
+  .single_con_item p {
+    font-size: 17px;
+}
+  /*about us section end*/
+/*counter up area start*/
+ .count_itm_wrap span {
+    font-size: 45px;
+}
+.count_itm_wrap p{
+    font-size: 20px!important;
+}
+/*counter up area end*/
+
+  /*contact us form area start*/
+  .address_control {
+    padding: 10px 15px!important;
+}
+.address_control p {
+   font-size: 20px!important;
+}
+  /*contact us form area end*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    /*counter up area start*/
+     .count_itm_wrap span {
+    font-size: 45px;
+}
+.count_itm_wrap p{
+    font-size: 20px!important;
+}
+/*counter up area end*/
+    /*contact form area start*/
+  .address_control {
+    padding: 25px 15px!important;
+}
+.address_control p {
+    font-size: 22px!important;
+}
+    /*contact form area end*/
+}
